@@ -1,0 +1,35 @@
+[general]
+live_config_reload = true
+
+[window]
+opacity = 0.8
+
+[terminal]
+shell = "/usr/bin/fish"
+ 
+[colors]
+transparent_background_colors = true
+
+[colors.primary]
+background = "#0d0d1a"
+foreground = "#e0e0ff"
+
+[colors.normal]
+black   = "#0d0d1a"
+red     = "#ff4466"
+green   = "#00e5a0"
+yellow  = "#ffaa00"
+blue    = "#4488ff"
+magenta = "#cc44ff"
+cyan    = "#00ccff"
+white   = "#c0c0d0"
+
+[colors.bright]
+black   = "#1a1a33"
+red     = "#ff6680"
+green   = "#00ffb3"
+yellow  = "#ffcc00"
+blue    = "#66aaff"
+magenta = "#dd77ff"
+cyan    = "#33ddff"
+white   = "#e0e0ff"
