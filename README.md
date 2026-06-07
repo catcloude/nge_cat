@@ -4,6 +4,10 @@ The depemdencies are hyprland waybar fastfetch alacritty and cava.
 the configs have to go in the .config folder on your pc
 have fun uing it :3
 
+##Instaltion
+to install this repo run this command
+git clone https://github.com/catcloude/nge_cat.git && cd nge_cat && chmod +x install.sh && ./install.sh
+
 
 quick notice:
 i lost track of a few resourses i used for this rice so i will not be able to credit all of the people
