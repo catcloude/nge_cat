@@ -1,10 +1,11 @@
-echo "i hope you have everything intsalled"
-echo
+echo "insatling the dependencies"
+sudo pacman -Sy cava fastfetch waybar otf-monaspace-nerdfonts alacritty
 echo "now the files will be moved to thier needed place"
 wget https://i.pinimg.com/736x/3d/d4/c2/3dd4c2a22ba8b87a74a4c6f5d31e7272.jpg
 mv 3dd4c2a22ba8b87a74a4c6f5d31e7272.jpg ~/Pictures
 cd ~/Pictures
 mv 3dd4c2a22ba8b87a74a4c6f5d31e7272.jpg wall_hypr.jpg
+rm -rf ~/.config/cava
 cd ~/nge_cat
 mv hypr ~/.config
 mv fastfetch ~/.config
