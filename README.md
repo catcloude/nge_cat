@@ -3,8 +3,7 @@ A hyprland based NGE (Neon Gensis Evangelion) rice.
 The depemdencies are hyprland waybar fastfetch alacritty and cava.
 the configs have to go in the .config folder on your pc.
 have fun uing it :3
-as of right now the rice dosn't seem to work i will work on a fix 
-
+![a picture os the rice with som eapplications open]()
 
 ## Instaltion
 the instaltion only works for arch linux right now.
