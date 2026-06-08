@@ -7,7 +7,7 @@ as of right now the rice dosn't seem to work i will work on a fix
 
 
 ## Instaltion
-to install this repo run this command
+to install this repo run this command:   
 git clone https://github.com/catcloude/nge_cat.git && cd nge_cat && chmod +x install.sh && ./install.sh
 ## a quick note
 the fastfetch config is not named right i intended to have it run by fast-hypr. 
