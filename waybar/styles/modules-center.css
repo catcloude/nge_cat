@@ -13,10 +13,10 @@
 -----------------*/
 
 #custom-left_div.2 {
-	color: #DEA318;
+	color: #972FD4;
 }
 #temperature {
-	background-color: #C4911B;
+	background-color: #510A7D;
 }
 
 /*------------
@@ -24,11 +24,11 @@
 ------------*/
 
 #custom-left_div.3 {
-	background-color: #C4911B;
-	color: #DEA318;
+	background-color: #655ADB;
+	color: #972FD4;
 }
 #memory {
-	background-color: #C4911B;
+	background-color: #510A7D;
 }
 
 /*---------
@@ -36,14 +36,14 @@
 ---------*/
 
 #custom-left_div.4 {
-	background-color: #C4911B;
-	color: #DEA318;
+	background-color: #655ADB;
+	color: #972FD4;
 }
 #cpu {
-	background-color: #C4911B;
+	background-color: #510A7D;
 }
 #custom-left_inv.1 {
-	color: #C4911B;
+	color: #972FD4;
 }
 
 /*-----------------
@@ -56,8 +56,8 @@
 }
 #custom-distro {
 	padding: 0 10px 0 5px;
-	background-color:#C4911B;
-	color: #290E63;
+	background-color:#655ADB;
+	color: #14C8DB;
 }
 
 /*--------------------
@@ -65,10 +65,10 @@
 --------------------*/
 
 #custom-right_inv.1 {
-	color: #C4911B;
+	color: #972FD4;
 }
 #idle_inhibitor {
-	background-color: #C4911B;
+	background-color: #510A7D;
 }
 
 /*----------
@@ -77,11 +77,11 @@
 
 #clock.time {
 	padding-right: 6px;
-	background-color: #C4911B;
+	background-color: #510A7D;
 }
 #custom-right_div.3 {
-	background-color: #C4911B;
-	color: #DEA318;
+	background-color: #655ADB;
+	color: #972FD4;
 }
 
 /*----------
@@ -90,11 +90,11 @@
 
 #clock.date {
 	padding-left: 6px;
-	background-color: #C4911B;
+	background-color: #510A7D;
 }
 #custom-right_div.4 {
-	background-color:#C4911B;
-	color: #DEA318;
+	background-color:#655ADB;
+	color: #972FD4;
 }
 
 /*-----------------
@@ -102,17 +102,17 @@
 -----------------*/
 
 #network {
-	background-color: #C4911B;
+	background-color: #510A7D;
 	padding: 0 6px 0 4px;
 }
 #bluetooth {
-	background-color: #C4911B;
+	background-color: #510A7D;
 	padding: 0 5px;
 }
 #custom-update {
-	background-color: #C4911B;
+	background-color: #510A7D;
 	padding: 0 8px 0 2px;
 }
 #custom-right_div.5 {
-	color: #C4911B;
+	color: #972FD4;
 }
