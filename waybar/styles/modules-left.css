@@ -4,15 +4,15 @@
 
 #custom-left_div.1,
 #custom-right_div.1 {
-	color: #DEA318;
+	color: #972FD4;
 }
 #workspaces {
 	padding: 0 1px;
-	background-color: #C4911B;
+	background-color: #510A7D;
 }
 #workspaces button.active label,
 #workspaces button.focused label {
-	color: #DEA318;
+	color: #14C8DB;
 }
 
 /*------------------
