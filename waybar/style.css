@@ -1,5 +1,3 @@
-@import "theme.css";
-
 * {
 	all: initial; /* Reset GTK theme */
 	color: #98F527;
@@ -10,18 +8,18 @@
 @import "styles/modules-left.css";
 @import "styles/modules-right.css";
 @import "styles/states.css";
-@import "/home/kadze/.cache/wal/colors-waybar.css";
+
 
 .module {
 	margin-bottom: -1px;
 }
 
 #waybar {
-	background-color: #5B64E1;
+	background-color: #0E35B2;
 }
 #waybar > box {
 	margin: 4px;
-	background-color: #64E15B;
+	background-color: #1356F2;
 }
 
 button {
@@ -30,12 +28,12 @@ button {
 	padding: 0 10px;
 }
 button:hover {
-	background-color: #FBB59B;
+	background-color: #972FD4;
 	color: #F5490A;
 }
 
 tooltip {
-	border: 2px solid #247F9E;
+	border: 2px solid #07E1F0;
 	border-radius: 10px;
 	background-color: #1E6B85;
 }
